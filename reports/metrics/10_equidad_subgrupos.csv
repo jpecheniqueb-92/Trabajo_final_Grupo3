@@ -1,0 +1,13 @@
+variable,grupo,n,tasa_desercion_real,tasa_contacto,ROC_AUC,Recall,Precision
+Modalidad,Autoestudio,1325,0.2657,0.5215,0.8694,0.8977,0.4573
+Modalidad,Con mentor en vivo,631,0.1109,0.2615,0.8762,0.8,0.3394
+CategoriaCurso,Diseño,241,0.1867,0.4357,0.8094,0.8222,0.3524
+CategoriaCurso,Finanzas,300,0.1933,0.3967,0.8736,0.8448,0.4118
+CategoriaCurso,Idiomas,622,0.2042,0.4228,0.9002,0.8898,0.4297
+CategoriaCurso,Marketing Digital,357,0.2493,0.4538,0.8676,0.8764,0.4815
+CategoriaCurso,Programación,436,0.2362,0.4748,0.9007,0.9223,0.4589
+TieneBecaDescuento,0,1403,0.2288,0.4676,0.8691,0.8816,0.4314
+TieneBecaDescuento,1,553,0.1826,0.3617,0.9075,0.8812,0.445
+RangoEdad,16-24,681,0.2394,0.4772,0.8899,0.908,0.4554
+RangoEdad,25-34,990,0.201,0.4091,0.8701,0.8492,0.4173
+RangoEdad,35+,282,0.2128,0.4397,0.89,0.9167,0.4435

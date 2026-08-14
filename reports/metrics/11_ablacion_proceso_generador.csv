@@ -1,0 +1,11 @@
+escenario,Modelo,ROC_AUC,PR_AUC,puesto
+A: generador logit lineal,Regresión Logística,0.8983,0.7197,2
+A: generador logit lineal,Árbol de Decisión,0.8468,0.5686,5
+A: generador logit lineal,Random Forest,0.8833,0.67,4
+A: generador logit lineal,XGBoost,0.8795,0.6743,3
+A: generador logit lineal,Red Neuronal (MLP),0.8995,0.7232,1
+B: generador con umbrales e interacciones,Regresión Logística,0.884,0.712,2
+B: generador con umbrales e interacciones,Árbol de Decisión,0.8498,0.6191,5
+B: generador con umbrales e interacciones,Random Forest,0.8775,0.7008,4
+B: generador con umbrales e interacciones,XGBoost,0.8909,0.7227,1
+B: generador con umbrales e interacciones,Red Neuronal (MLP),0.8817,0.7115,3

@@ -1,0 +1,11 @@
+escenario,Modelo,ROC_AUC,PR_AUC,puesto
+sin variables de dominio,Regresión Logística,0.8839,0.7038,4
+sin variables de dominio,Árbol de Decisión,0.846,0.6119,5
+sin variables de dominio,Random Forest,0.8849,0.7161,3
+sin variables de dominio,XGBoost,0.8895,0.7256,1
+sin variables de dominio,Red Neuronal (MLP),0.8909,0.7241,2
+con variables de dominio,Regresión Logística,0.884,0.712,2
+con variables de dominio,Árbol de Decisión,0.8498,0.6191,5
+con variables de dominio,Random Forest,0.8775,0.7008,4
+con variables de dominio,XGBoost,0.8909,0.7227,1
+con variables de dominio,Red Neuronal (MLP),0.8817,0.7115,3

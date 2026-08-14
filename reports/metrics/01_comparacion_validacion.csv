@@ -1,0 +1,8 @@
+Modelo,CV_PR_AUC_media,CV_PR_AUC_std,Val_ROC_AUC,Val_PR_AUC,AUC_train,Brecha_train_val,segundos
+XGBoost,0.6911,0.0307,0.8962,0.7405,0.9346,0.0384,38.7
+Red Neuronal (MLP),0.6766,0.0279,0.8872,0.7172,0.9177,0.0305,100.9
+Regresión Logística,0.6747,0.023,0.8841,0.7122,0.8922,0.0081,1.0
+Random Forest,0.6738,0.0336,0.8763,0.6981,0.9401,0.0638,75.1
+Árbol de Decisión,0.6137,0.0403,0.8592,0.6448,0.9022,0.0429,3.0
+Línea base: regla de negocio,,,0.7269,0.5034,,,0.0
+Línea base: prevalencia,0.1848,0.0004,0.5,0.2123,0.5,0.0,0.2

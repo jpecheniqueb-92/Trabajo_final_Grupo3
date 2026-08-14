@@ -1,0 +1,14 @@
+# EduTech Perú - Predicción de deserción
+# Probado con Python 3.11.15
+# Instalación:  pip install -r requirements.txt
+
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+xgboost==3.2.0
+torch==2.13.0
+matplotlib==3.10.9
+shap==0.51.0
+
+# Solo para ejecutar los notebooks
+jupyter==1.1.1

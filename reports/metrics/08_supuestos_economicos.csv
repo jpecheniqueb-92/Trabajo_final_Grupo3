@@ -1,0 +1,10 @@
+Supuesto,Valor,Justificación
+Precio promedio del curso,S/ 890,Ticket de curso técnico online en el mercado peruano
+Margen de contribución,62%,Precio menos costos variables de plataforma y docencia
+Fracción del curso no dictada al desertar,55%,El abandono ocurre en promedio cerca de la mitad del programa
+Costo de adquirir un estudiante de reemplazo,S/ 180,CAC de marketing digital por matrícula
+Valor económico de un estudiante perdido,S/ 483,Margen no devengado más costo de reposición
+Efectividad de la intervención de retención,28%,Supuesto central; se somete a sensibilidad entre 15% y 40%
+Costo de un contacto de retención,S/ 18,0.5 h de tutor a S/ 36/h
+Capacidad del equipo,48 contactos/semana,3 tutores x 8 h/semana
+Umbral óptimo de decisión,0.133,Costo del contacto dividido entre el beneficio esperado de recuperar

@@ -1,0 +1,34 @@
+{
+  "Línea base: prevalencia": "valores por defecto",
+  "Regresión Logística": {
+    "modelo__C": 0.5
+  },
+  "Árbol de Decisión": {
+    "modelo__min_samples_leaf": 50,
+    "modelo__max_depth": 8
+  },
+  "Random Forest": {
+    "modelo__n_estimators": 300,
+    "modelo__min_samples_leaf": 15,
+    "modelo__max_depth": 12
+  },
+  "XGBoost": {
+    "modelo__subsample": 0.7,
+    "modelo__reg_lambda": 5.0,
+    "modelo__n_estimators": 300,
+    "modelo__min_child_weight": 1,
+    "modelo__max_depth": 3,
+    "modelo__learning_rate": 0.05,
+    "modelo__colsample_bytree": 0.7
+  },
+  "Red Neuronal (MLP)": {
+    "modelo__weight_decay": 0.001,
+    "modelo__lr": 0.0003,
+    "modelo__dropout": 0.15,
+    "modelo__capas": [
+      128,
+      64,
+      32
+    ]
+  }
+}
